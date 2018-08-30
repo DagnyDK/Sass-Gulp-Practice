@@ -1,0 +1,24 @@
+{
+  "name": "sass-gulp-practice",
+  "version": "1.0.0",
+  "description": "Learning Sass, Gulp, and NPM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DagnyDK/Sass-Gulp-Practice.git"
+  },
+  "keywords": [
+    "SASS",
+    "GULP",
+    "NPM"
+  ],
+  "author": "Dagny Kight",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DagnyDK/Sass-Gulp-Practice/issues"
+  },
+  "homepage": "https://github.com/DagnyDK/Sass-Gulp-Practice#readme"
+}
